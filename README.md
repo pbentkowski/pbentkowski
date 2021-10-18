@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Piotr BENTKOWSKI /Pee-oh-tR Ben-t-kov-s-key/ 
+- 👋 Hi, my name is Piotr BENTKOWSKI (spell *Pee-oh-tR  Ben-t-kov-s-key*)
 - 👀 I’m interested in modelling of evolution and infectious disease
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [www.bentkowski.net](https://bentkowski.net/7_CONTACT/)
