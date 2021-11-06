@@ -2,9 +2,10 @@
 **Computational biologist and modeller** 
 
 My name is spelled *Pee-oh-tR  Ben-t-kov-s-key*
+
 I’m interested in modelling of evolution and infectious disease
 
-How to reach me: [www.bentkowski.net](https://bentkowski.net/7_CONTACT/)
+More about what I do on my webpage: [www.bentkowski.net](https://bentkowski.net/7_CONTACT/)
 
 
 
