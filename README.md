@@ -1,7 +1,7 @@
 # Piotr Bentkowski, PhD
 **Computational biologist and modeller** 
 
-My name is spelled **Pee-oh-tR**   **Ben-t-kov-s-key**  (youp... 2 strings of 3 consonants :sweat_smile:) 
+My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key**  (youp... 2 strings of 3 consonants :sweat_smile:) 
 
 I’m interested in modelling evolution and infectious disease.
 
