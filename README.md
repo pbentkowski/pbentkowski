@@ -1,5 +1,5 @@
 # Piotr Bentkowski, PhD
-**Computational biologist and modeller** 
+**Computational biologist and modeller - evolution and epidemiology** 
 
 My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key**  (youp... 2 strings of 3 consonants :sweat_smile:) 
 
