@@ -1,9 +1,10 @@
 # Piotr Bentkowski, PhD
 **Computational biologist and modeller - evolution and epidemiology** 
 
-My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key**  (youp... 2 strings of 3 consonants :sweat_smile:) 
+My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key** 
+    (youp... 2 strings of 3 consonants :sweat_smile:) 
 
-I’m interested in modelling evolution and infectious disease.
+I’m interested in modelling infectious diseases, evolution and ecology.
 
 More about what I do on my webpage: [www.bentkowski.net](https://bentkowski.net/7_CONTACT/)
 
