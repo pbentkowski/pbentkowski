@@ -6,7 +6,7 @@ My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key**
 
 I’m interested in modelling infectious diseases, evolution and ecology.
 
-More about what I do on my webpage: [www.bentkowski.net](https://bentkowski.net/7_CONTACT/)
+More about what I do on my webpage: [www.bentkowski.net](https://bentkowski.net/)
 
 
 
