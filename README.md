@@ -3,7 +3,7 @@
 
 My name is spelled **Pee-oh-tR** ____  **Ben-t-kov-s-key** 
 
- . (youp... 2 strings of 3 consonants :sweat_smile:) 
+ (youp... 2 strings of 3 consonants :sweat_smile:) 
 
 I’m interested in modelling infectious diseases, evolution and ecology.
 
